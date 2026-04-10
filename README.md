@@ -4,30 +4,58 @@
 
 I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
 
-## 🎯 Currect Focus
-- Proactive multi-agent LLM systems  
-- Large-scale model fine-tuning & evaluation  
-- Real-world AI applications (RAG, multimodal systems)
-- NLP, LLMs, intelligent agents & applied ML
-
 ## 📚 Featured Projects
 
-### AgentOS: Proactive Multi-Agent LLM System
-- Built a system that predicts user intent using Windows kernel signals (ETW)  
-- Designed a Mixture-of-Experts router with **87.1% routing accuracy**  
-- Improved task completion (**75% vs 52% baseline**)  
-- Reduced latency by **38%** with proactive context prefetching  
-- Enabled cross-agent memory using ChromaDB  
+<details>
+<summary>🤖 AgentOS: Proactive Multi-Agent LLM System</summary>
+<br>
 
-### Machine-Generated Code Detection
-- Fine-tuned CodeBERT on **500K+ multilingual samples**  
-- Achieved **99.3% accuracy / 0.993 macro-F1**  
-- Built scalable evaluation pipelines with GPU optimization (fp16, checkpointing)  
+- Built a system that predicts user intent using Windows kernel signals (ETW)
+- Designed a Mixture-of-Experts router with **87.1% routing accuracy**
+- Improved task completion (**75% vs 52% baseline**)
+- Reduced latency by **38%** with proactive context prefetching
+- Enabled cross-agent memory using ChromaDB
 
-### StockPilot: RAG-Based Stock Recommender
-- Built LLM-driven system using LLaMA for personalized insights  
-- Processed **7 years of SEC filings** into a structured knowledge base  
-- Achieved **+63.8% (Value)** and **+70.8% (Income)** vs S&P 500  
+</details>
+
+<details>
+<summary>🔍 Machine-Generated Code Detection</summary>
+<br>
+
+- Fine-tuned CodeBERT on **500K+ multilingual samples**
+- Achieved **99.3% accuracy / 0.993 macro-F1**
+- Built scalable evaluation pipelines with GPU optimization (fp16, checkpointing)
+
+</details>
+
+<details>
+<summary>📈 StockPilot: RAG-Based Stock Recommender</summary>
+<br>
+
+- Built LLM-driven system using LLaMA for personalized insights
+- Processed **7 years of SEC filings** into a structured knowledge base
+- Achieved **+63.8% (Value)** and **+70.8% (Income)** vs S&P 500
+
+</details>
+<details>
+<summary>🧠  Tech4Good Lab: Six Hats Conversational AI Chatbot</summary>
+<br>
+
+- Built a conversational AI chatbot using OpenAI GPT models to simulate six thinking personas for structured brainstorming
+- Improved idea diversity and decision-making clarity across team workflows
+- Led a team of 7 developers as AI Research Team Lead
+
+</details>
+
+<details>
+<summary>🚀 NASA JPL: Satellite Cloud Removal with Deep Learning</summary>
+<br>
+
+- Replicated and enhanced DSen2-CR (ResNet-based SAR-optical fusion) for cloud removal from Sentinel-2 imagery
+- Processed a **620 GB dataset** of 157K+ image triplets across 4 NVIDIA GPUs
+- Integrated Stable Diffusion inpainting to improve reconstruction of cloud-covered regions
+
+</details>
 
 ## 🛠️ Tech Stack
 <p>
