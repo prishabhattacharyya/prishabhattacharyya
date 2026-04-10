@@ -1,23 +1,12 @@
-<h3 align="center"> Hi there!
-
+## Hi there!
+---
 I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
 
 
 
 
 ---
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/prishab) &nbsp;
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prishab/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <span style="display:inline-block; width:18px;"></span>
-  <a href="mailto:prishabh@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ## 👩🏽‍💻 About Me
 I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
@@ -89,15 +78,13 @@ I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing 
 ---
 
 ## 🔗 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/prishab">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:prishabh@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
-  </a>
-</p>
----
+<a href="https://www.linkedin.com/in/prishab">
+  <img src="/assets/linkedin.png" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:prishabh@gmail.com">
+  <img src="/assets/gmail.png" width="40"/>
+</a>
+
 
 ⭐️ From [PrishaBhattacharyya](https://github.com/YOUR_USERNAME)
