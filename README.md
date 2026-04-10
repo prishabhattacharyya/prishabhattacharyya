@@ -1,7 +1,5 @@
 
 
-
-
 ## Hi There!👩🏽‍💻
 
 I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
@@ -44,21 +42,6 @@ I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-
-## 🧠 Interests
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)  
-- Intelligent Agents & Automation  
-- Applied Machine Learning  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prishabhattacharyya&show_icons=true&cache_seconds=1800" />
 </p>
 
 ---
