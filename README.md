@@ -1,15 +1,8 @@
-## Hi there!
+## Hi there!👩🏽‍💻
 ---
 I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
 
 
-
-
----
-
-
-## 👩🏽‍💻 About Me
-I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing at UC Santa Cruz with a B.S. in Computer Science and a minor in Statistics. My work focuses on machine learning, large language models, and intelligent systems. I enjoy building impactful AI applications and continuously improving through hands-on projects.
 
 ---
 
@@ -46,11 +39,9 @@ I’m Prisha Bhattacharyya, a Master’s student in Natural Language Processing 
 ---
 
 ## 🛠️ Tech Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,pytorch,tensorflow,aws,linux,git" />
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,r,pytorch,tensorflow,aws,linux,git,figma)](https://skillicons.dev)
 </p>
-
 ---
 
 ## 🧠 Interests
